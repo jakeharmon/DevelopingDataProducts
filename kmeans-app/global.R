@@ -1,0 +1,1 @@
+wine <- read.csv("./data/wine.csv",header = T)
